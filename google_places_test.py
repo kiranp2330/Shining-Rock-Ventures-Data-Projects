@@ -1,7 +1,7 @@
 import pandas as pd
 import google_places_api 
 
-API_KEY = 'AIzaSyAI4oQZhP02ovcc8t2nCWPGFLSuZkHOr1c' 
+API_KEY = 'API-KEY' 
 
 search_query = input("Enter the business name or search query (e.g., 'Starbucks Main St'): ")
 
