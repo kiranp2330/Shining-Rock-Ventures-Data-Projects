@@ -100,7 +100,7 @@ def get_place_details(place_id: str, api_key: str, fields: str = None, **kwargs)
 
 # test
 if __name__ == "__main__":
-    MY_API_KEY = "AIzaSyAI4oQZhP02ovcc8t2nCWPGFLSuZkHOr1c" 
+    MY_API_KEY = "API-KEY" 
 
     print("--- Testing Google Places API Functions ---")
 
